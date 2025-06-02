@@ -1,4 +1,4 @@
-# 📟 Detecção de Bordas com AVR e Arduino
+# 📟📚 Bibliotecas na Detecção de Bordas com AVR e Arduino
 
 Este projeto consiste no desenvolvimento de um circuito com programação em AVR, para detectar as bordas de subida e descida em botão pulsador, gerando um incremento e decremento de uma variável de contagem no display de 7 segmentos. O funcionamento é o seguinte:
 
@@ -39,6 +39,6 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 | Entrada | Botão Pulsador NA | B1 : incrementa contagem | 13                 | 19                | PB5  |
 
 
-| 📟 Simulação no SimulIDE: |
+| 📟📚 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
 | ![DeteccaoBordas](DeteccaoBordas.gif)                      |
